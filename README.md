@@ -7,6 +7,8 @@
 ## Demo
 ![Demo](https://raw.githubusercontent.com/akshayymahajan/react-copy-content/master/demo.gif)
 
+Checkout the [Live Demo](https://react-copy-content.netlify.com)
+
 ## Install
 
 ```bash
