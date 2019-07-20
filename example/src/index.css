@@ -1,5 +1,38 @@
+:root {
+  --primary: #42a5f5;
+  --body-bg: #f5f7fa;
+}
 body {
   margin: 0;
   padding: 0;
   font-family: sans-serif;
+  background: var(--body-bg);
+}
+.container {
+  width: 100%;
+  max-width: 700px;
+  margin: auto;
+}
+.text-center {
+  text-align: center;
+}
+textarea {
+  width: 100%;
+  resize: none;
+  border: 2px solid var(--primary);
+  font-size: 16px;
+  border-radius: 0.5em;
+  padding: 0.5em;
+  margin-bottom: 10px;
+  outline: none;
+}
+button {
+  outline: none;
+}
+pre {
+  text-align: left;
+  background: #eee;
+}
+section {
+  margin-bottom: 30px;
 }
