@@ -1,22 +1,22 @@
-# react-click-copy
+# react-copy-content
 
 > A Fully Customizable Click-To-Copy Component for React
 
-[![NPM](https://img.shields.io/npm/v/react-click-copy.svg)](https://www.npmjs.com/package/react-click-copy) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+[![NPM](https://img.shields.io/npm/v/react-copy-content.svg)](https://www.npmjs.com/package/react-copy-content) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
 ## Demo
-![Demo](https://raw.githubusercontent.com/akshayymahajan/react-click-copy/master/demo.gif)
+![Demo](https://raw.githubusercontent.com/akshayymahajan/react-copy-content/master/demo.gif)
 
 ## Install
 
 ```bash
-npm install --save react-click-copy
+npm install --save react-copy-content
 ```
 
 ## Usage
 
 ```jsx
-import ClickToCopy from 'react-click-copy'
+import ClickToCopy from 'react-copy-content'
 
 <ClickToCopy contentToCopy="This will be copied to your clipboard." />
 ```

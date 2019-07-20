@@ -1,10 +1,10 @@
 {
-  "name": "@_akshaym/react-click-copy",
+  "name": "react-copy-content",
   "version": "1.0.0",
   "description": "Enable Click to Copy in your React Apps",
   "author": "akshayymahajan",
   "license": "MIT",
-  "repository": "akshayymahajan/react-click-copy",
+  "repository": "akshayymahajan/react-copy-content",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
   "jsnext:main": "dist/index.es.js",

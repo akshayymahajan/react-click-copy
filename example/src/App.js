@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import ClickToCopy from "react-click-copy";
+import ClickToCopy from "react-copy-content";
 
 export default class App extends Component {
   state = {
@@ -28,12 +28,12 @@ export default class App extends Component {
 
   render() {
     return (
-      <div className="container react-click-copy">
-        <h1 className="text-center">react-click-copy</h1>
+      <div className="container react-copy-content">
+        <h1 className="text-center">react-copy-content</h1>
         <p className="text-center">
           A Fully Customizable Click-To-Copy Component for React.
           <br />
-          <a href="https://github.com/akshayymahajan/react-click-copy">
+          <a href="https://github.com/akshayymahajan/react-copy-content">
             Checkout the Documentation on Github
           </a>
         </p>
