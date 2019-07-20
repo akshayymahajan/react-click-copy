@@ -3,6 +3,12 @@
   "version": "1.0.0",
   "description": "Enable Click to Copy in your React Apps",
   "author": "akshayymahajan",
+  "keywords": [
+    "react",
+    "reactjs",
+    "click to copy",
+    "copy to clipboard"
+  ],
   "license": "MIT",
   "repository": "akshayymahajan/react-copy-content",
   "main": "dist/index.js",
